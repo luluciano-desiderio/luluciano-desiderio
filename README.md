@@ -2,6 +2,9 @@
 
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Q9zGxqjr)
 
+</span>
 
-![dev GitHub stats](https://github-readme-stats.vercel.app/api?username=devluciano&show_icons=true&theme=radical)
+![htrap](https://github.com/luluciano-desiderio/luluciano-desiderio/assets/160436033/8a7cb224-bc0d-4739-850e-c53ebc221606)
+
+
    
